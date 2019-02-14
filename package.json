@@ -1,0 +1,24 @@
+{
+  "name": "axois-packag",
+  "version": "1.0.0",
+  "description": "axios 进行二次封装",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/front-auxiliary/axois-packag.git"
+  },
+  "author": "front-auxiliary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/front-auxiliary/axois-packag/issues"
+  },
+  "homepage": "https://github.com/front-auxiliary/axois-packag#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "promise": "^8.0.2",
+    "qs": "^6.6.0"
+  }
+}
